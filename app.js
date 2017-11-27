@@ -28,7 +28,7 @@ app.post('/pay',(req,res) => {
         "transactions": [{
             "item_list": {
                 "items": [{
-                    "name": "Red Sox Hat",
+                    "name": "Book",
                     "sku": "001",
                     "price": "25",
                     "currency": "USD",
